@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/6yN8ZrB166GXwmyzf0/giphy.gif" width="400"/>
+  <img src="https://media2.giphy.com/media/yX8b6qiEoULQAtjjyJ/giphy.gif" width="400"/>
 </div>
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+,+I'm+Leiner+Bermudez+%F0%9F%91%8B;Systems+Engineering+Student"alt="Headline" />
