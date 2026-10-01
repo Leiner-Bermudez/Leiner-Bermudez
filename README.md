@@ -19,7 +19,7 @@ you eat great responsibility. 🕷️
    </td>
     <td valign="top" width="30%">
       <br>
-      <img src="https://media2.giphy.com/media/yX8b6qiEoULQAtjjyJ/giphy.gif" width="220" alt="Spider-Man Coding">
+      <img src="https://media2.giphy.com/media/yX8b6qiEoULQAtjjyJ/giphy.gif" width="300" alt="Spider-Man Coding">
     </td>
   </tr>
 </table>
