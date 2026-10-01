@@ -25,12 +25,24 @@ you eat great responsibility. 🕷️
 </table>
 <h2> 💻 Tech Stack:
   </h2>
+<h3>🌐 Languages</h3>
 <p>
-  <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="PYTHON">
+  <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white&logo=SASS&logoColor=white" alt="FASTAPI">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt=">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRES">
+</p>
+
+<h3>⚙️ Frameworks</h3>
+<p>
+  <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+</p>
+
+<h3>🗄️ Database</h3>
+<p>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+</p>
+
+<h3>🛠️ Other Tools and Technologies</h3>
+<p>
   <img src="https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini">
   <img src="https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff" alt="Opencode">
 </p>
